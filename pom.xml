@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>rwoo.research</groupId>
-    <artifactId>javaExample</artifactId>
+    <artifactId>Java-Document</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>javaExample</name>
+    <name>Java-Document</name>
     <url>http://maven.apache.org</url>
 
     <properties>
