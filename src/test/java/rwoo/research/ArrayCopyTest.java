@@ -13,7 +13,7 @@ import static org.junit.Assert.assertThat;
 public class ArrayCopyTest {
     @Test
     public void testArrayCopy() {
-        List<String> listA = new ArrayList<String>();
+        List<String> listA;
         String[] tmpA = {"a", "b"};
         listA = Arrays.asList(tmpA);
         List<String> expextA = new ArrayList<String>();
@@ -21,7 +21,7 @@ public class ArrayCopyTest {
         expextA.add("b");
         assertThat("listA is different", listA, is(expextA));
 
-        List<String> listB = new ArrayList<String>();
+        List<String> listB;
         String[] tmpB = {"c", "d"};
         listB = Arrays.asList(tmpB);
         List<String> expextB = new ArrayList<String>();
