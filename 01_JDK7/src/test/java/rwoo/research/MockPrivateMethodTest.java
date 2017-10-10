@@ -13,10 +13,9 @@ import org.powermock.reflect.Whitebox;
 @PrepareForTest(MockPrivateMethod.class)
 public class MockPrivateMethodTest {
 
-    private MockPrivateMethod mockPrivateMethod;
-
     // This is the name of the private method which we want to mock
     private static final String METHOD = "iAmPrivate";
+    private MockPrivateMethod mockPrivateMethod;
 
     @Test
     public void testPrivateMethod() throws Exception {
@@ -25,11 +24,12 @@ public class MockPrivateMethodTest {
         MockPrivateMethod spy = PowerMockito.spy(mockPrivateMethod);
         PowerMockito.doReturn("Test").when(spy, METHOD);
         String value = spy.getDetails();
-
-        Assert.assertEquals(value, "Mock private method example: Test");
-        PowerMockito.verifyPrivate(spy, Mockito.times(1)).invoke(METHOD);
-
-        value = Whitebox.<String> invokeMethod(mockPrivateMethod, "iAmPrivate");
         System.out.println(value);
+        Assert.assertEquals(value, "Mock private method example: Test");
+
+        PowerMockito.verifyPrivate(spy, Mockito.times(1)).invoke(METHOD);
+        value = Whitebox.<String>invokeMethod(mockPrivateMethod, "iAmPrivate");
+        System.out.println(value);
+        Assert.assertEquals(value, "iAmPrivateReturn");
     }
 }
