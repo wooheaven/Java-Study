@@ -1,0 +1,34 @@
+# location
+cat ~/03_Programs/intellij/idea-IC-172.3757.52/bin/idea.vmoptions  # Linux
+cat /Users/${USER}/Library/Preferences/IdeaIC2016.3/idea.vmoptions # Mac
+
+# default
+-server
+-Xms128m
+-Xmx512m
+-XX:ReservedCodeCacheSize=240m
+-XX:+UseConcMarkSweepGC
+-XX:SoftRefLRUPolicyMSPerMB=50
+-ea
+-Dsun.io.useCanonCaches=false
+-Djava.net.preferIPv4Stack=true
+-XX:+HeapDumpOnOutOfMemoryError
+-XX:-OmitStackTraceInFastThrow
+-Dawt.useSystemAAFontSettings=lcd
+-Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine
+
+# user defined
+-server
+-Xms2g
+-Xmx2g
+-XX:ReservedCodeCacheSize=1024m
+-XX:+UseCompressedOops
+-XX:+UseConcMarkSweepGC
+-XX:SoftRefLRUPolicyMSPerMB=50
+-ea
+-Dsun.io.useCanonCaches=false
+-Djava.net.preferIPv4Stack=true
+-XX:+HeapDumpOnOutOfMemoryError
+-XX:-OmitStackTraceInFastThrow
+-Dawt.useSystemAAFontSettings=lcd
+-Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine
