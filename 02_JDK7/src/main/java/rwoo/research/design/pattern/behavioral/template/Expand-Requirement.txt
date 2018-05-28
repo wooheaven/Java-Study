@@ -1,0 +1,12 @@
+Requirement
+    req-1. 모든 Sandwich에 tomato를 추가하고 싶다.
+    req-2. BaconSandwich를 추가하고 싶다.
+
+brutal
+    sol-1. by copy&paste, replace text
+
+applied
+    use template pattern
+
+Requirement
+    req-3. tuna와 tomato 위치를 바꾸고 싶다.
