@@ -15,7 +15,7 @@ Java : Sun Microsystems에서 1995년에 개발한 객체 지향 프로그래밍
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.2.1 OpenJDK by JCP(Oracle, etc) : Implement which specify Java Specification (JSR336 for JDK7, JSR337 for JDK8) (6 month support)  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.2.2 OracleJDK : OpenJDK + @ (현재/미래의 버그/이슈까지 보장함)  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.2.3 OpenJDK by Third Party : OCTLA에 가입된 업체/단체가 TCK(Technology Certification Kit) 인증을 통과한 OpenJDK (Azul, RedHat, Canonical, SAP, etc) (check)  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 3.2.4 OpenJDK by Manual : AdotOpenJDK (Community Version, TCK Version, Free Support)  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 3.2.4 OpenJDK by Manual : [AdotOpenJDK](https://adoptopenjdk.net/) (Community Version, TCK Version, Free Support)  
 ║&ensp;&ensp;&nbsp;╚══ 3.3 JDK License  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 3.3.1 OracleJDK  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 3.3.2.1 Oracle Binary Code License (BCL, ~ 2018-07) : General Purpose is Free, other is Commercial  
