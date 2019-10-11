@@ -1,8 +1,15 @@
+╠═1 Design_Pattern_by_GoF  
+║░╠═1 [DZone : reference pdf](01_Design_Pattern_by_GoF/rc008-designpatterns_online.pdf)  
+║░╠═2 [GoF relationship](01_Design_Pattern_by_GoF/1.1_Design_Patterns_Relationship.jpg)  
+╠═2 [Java License](02_Java_License/01_Java_License.md)  
+╠═3 JDK7  
+╚═4 Maven  
+░░╚═1 [Install JARs on local Repository](04_Maven/01_install-file.md)  
+( ║░╠ ═ ╚ ░)  
+
 # Design_Pattern_by_GoF
 | Contents         | Details                                                                                                                            |
 |------------------|------------------------------------------------------------------------------------------------------------------------------------|
-| Overview         | [reference on DZone](01_Design_Pattern_by_GoF/rc008-designpatterns_online.pdf)                                                     |
-| Relationship     | [reference on GoF](01_Design_Pattern_by_GoF/1.1_Design_Patterns_Relationship.jpg)                                                  |
 | Template Pattern | [tutorials poing web link](https://www.tutorialspoint.com/design_pattern/template_pattern.htm)                                     |
 |                  | [refactoring.guru web link](https://refactoring.guru/design-patterns/template-method)                                              |
 |                  | [simple example's requirement](02_JDK7/src/main/java/rwoo/research/design/pattern/behavioral/template/Expand-Requirement.txt)      |
