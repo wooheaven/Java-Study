@@ -1,16 +1,20 @@
 ╠═1 Design_Pattern_by_GoF  
 ║░╠═1 [DZone : reference pdf](01_Design_Pattern_by_GoF/rc008-designpatterns_online.pdf)  
 ║░╠═2 [GoF relationship](01_Design_Pattern_by_GoF/1.1_Design_Patterns_Relationship.jpg)  
+║░╚═3 [Template Pattern : tutorials point](https://www.tutorialspoint.com/design_pattern/template_pattern.htm)  
 ╠═2 [Java License](02_Java_License/01_Java_License.md)  
 ╠═3 JDK7  
-╚═4 Maven  
-░░╚═1 [Install JARs on local Repository](04_Maven/01_install-file.md)  
+╠═4 JDK8  
+║░╚═1 Queue  
+║░░░╠═1 [CircularQueue by me](04_JDK8/src/main/java/rwoo/research/queue/me/MeCircularQueue.java)  
+║░░░╚═2 [CircularQueue by leetcode](04_JDK8/src/main/java/rwoo/research/queue/leetcode/MyCircularQueue.java)  
+╚═5 Maven  
+░░╚═1 [Install JARs on local Repository](05_Maven/01_install-file.md)  
 ( ║░╠ ═ ╚ ░)  
 
 # Design_Pattern_by_GoF
 | Contents         | Details                                                                                                                            |
 |------------------|------------------------------------------------------------------------------------------------------------------------------------|
-| Template Pattern | [tutorials poing web link](https://www.tutorialspoint.com/design_pattern/template_pattern.htm)                                     |
 |                  | [refactoring.guru web link](https://refactoring.guru/design-patterns/template-method)                                              |
 |                  | [simple example's requirement](02_JDK7/src/main/java/rwoo/research/design/pattern/behavioral/template/Expand-Requirement.txt)      |
 |                  | [simple example before](02_JDK7/src/main/java/rwoo/research/design/pattern/behavioral/template/before/HamSandwich.java)            |
