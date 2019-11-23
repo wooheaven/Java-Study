@@ -6,13 +6,15 @@
 ╠═2 [Java License](02_Java_License/01_Java_License.md)  
 ╠═3 JDK7  
 ╠═4 JDK8  
-║░╚═1 Queue  
-║░░░╠═1 [CircularQueue by me](04_JDK8/src/main/java/rwoo/research/queue/me/MeCircularQueue.java)  
-║░░░╠═2 [CircularQueue by leetcode](04_JDK8/src/main/java/rwoo/research/queue/leetcode/MyCircularQueue.java)  
-║░░░╚═3 [Queue example](04_JDK8/src/test/java/rwoo/research/queue/me/QueueTest.java)  
+║░╠═1 Queue  
+║░║░╠═1 [CircularQueue by me](04_JDK8/src/main/java/rwoo/research/queue/me/MeCircularQueue.java)  
+║░║░╠═2 [CircularQueue by leetcode](04_JDK8/src/main/java/rwoo/research/queue/leetcode/MyCircularQueue.java)  
+║░║░╚═3 [Queue example](04_JDK8/src/test/java/rwoo/research/queue/me/QueueTest.java)  
+║░╚═2 Stack  
+║░░░╠═1 [Stack example : Pair RoundBracket on String](04_JDK8/src/main/java/rwoo/research/stack/PairRoundBracket.java), [it's JUnit Test](04_JDK8/src/test/java/rwoo/research/stack/PairRoundBracketTest.java)  
+║░░░╚═2 [Stack example : Remove K Consecutive Chars on String](04_JDK8/src/main/java/rwoo/research/stack/RemoveKConsecutiveChars.java), [it's JUnit Test](04_JDK8/src/test/java/rwoo/research/stack/RemoveKConsecutiveCharsTest.java)  
 ╚═5 Maven  
 ░░╚═1 [Install JARs on local Repository](05_Maven/01_install-file.md)  
-( ║░╠ ═ ╚ ░)  
 
 # Design_Pattern_by_GoF
 | Contents         | Details                                                                                                                            |
