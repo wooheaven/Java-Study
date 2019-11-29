@@ -11,7 +11,8 @@
 ║░╠═2 Queue  
 ║░║░╠═1 [CircularQueue by me](04_JDK8/src/main/java/rwoo/research/queue/me/MeCircularQueue.java)  
 ║░║░╠═2 [CircularQueue by leetcode](04_JDK8/src/main/java/rwoo/research/queue/leetcode/MyCircularQueue.java)  
-║░║░╚═3 [Queue example](04_JDK8/src/test/java/rwoo/research/queue/me/QueueTest.java)  
+║░║░╠═3 [MovingAverage by Queue(ArrayList) : source](04_JDK8/src/main/java/rwoo/research/queue/me/MovingAverage.java), [it's : JUnit Test](04_JDK8/src/test/java/rwoo/research/queue/me/MovingAverageTest.java)  
+║░║░╚═4 [Queue example(LinkedList) : JUnit Test](04_JDK8/src/test/java/rwoo/research/queue/me/QueueTest.java)  
 ║░╚═3 Stack  
 ║░░░╠═1 [Stack example : Pair RoundBracket on String](04_JDK8/src/main/java/rwoo/research/stack/PairRoundBracket.java), [it's JUnit Test](04_JDK8/src/test/java/rwoo/research/stack/PairRoundBracketTest.java)  
 ║░░░╚═2 [Stack example : Remove K Consecutive Chars on String](04_JDK8/src/main/java/rwoo/research/stack/RemoveKConsecutiveChars.java), [it's JUnit Test](04_JDK8/src/test/java/rwoo/research/stack/RemoveKConsecutiveCharsTest.java)  
