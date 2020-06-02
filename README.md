@@ -5,7 +5,8 @@
 ║░╚═4 [Template Pattern : refactoring guru](https://refactoring.guru/design-patterns/template-method)  
 ╠═2 IDE IntelliJ  
 ║░╠═1 [Debug : ClassNotFoundException but Run work](02_IDE/01_IntelliJ/01_Debug_ClassNotFoundException.md)  
-║░╚═2 [Ibus : Config for IntelliJ](02_IDE/01_IntelliJ/02_IBus_Config_for_IntelliJ.md)  
+║░╠═2 [Ibus : Config for IntelliJ](02_IDE/01_IntelliJ/02_IBus_Config_for_IntelliJ.md)  
+║░╚═3 [Install IntelliJ manually](02_IDE/01_IntelliJ/03_manually_installation_of_IntelliJ.md)  
 ╠═3 [Java License](03_Java_License/01_Java_License.md)  
 ╠═4 JDK7  
 ╠═5 JDK8  
